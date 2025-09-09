@@ -1,0 +1,14 @@
+{
+  "frame": {
+    "version": "1",
+    "name": "Counter Mini App",
+    "homeUrl": "https://your-domain.com",
+    "iconUrl": "https://your-domain.com/icon.png",
+    "splashImageUrl": "https://your-domain.com/splash.png",
+    "splashBackgroundColor": "#3b82f6",
+    "subtitle": "Simple counter for Base",
+    "description": "A simple, interactive counter app built as a Base Mini App with MiniKit integration.",
+    "primaryCategory": "utility",
+    "tags": ["counter", "utility", "base", "miniapp"]
+  }
+}
